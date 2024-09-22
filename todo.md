@@ -1,0 +1,7 @@
+- [ ] work on a python file that 
+- - [ ] scrapes schedule builder info via the colors (or div class)
+- - [ ] grabs relevant data ie class, professor, time
+- - [ ] run a call to rmp api that gets corresponding info
+- - [ ] develop a sentiment analysis model to determine if the class is heavy
+- - [ ] after all sentiment analysis models have been completed, assess if the entire schedule is heavy and what to look out for (can use llm here)
+- [ ] add event handlers on service-worker.js
