@@ -4,4 +4,5 @@
 - - [ ] run a call to rmp api that gets corresponding info
 - - [ ] develop a sentiment analysis model to determine if the class is heavy
 - - [ ] after all sentiment analysis models have been completed, assess if the entire schedule is heavy and what to look out for (can use llm here)
+- [ ] js file that compiles that python file above. see py.js
 - [ ] add event handlers on service-worker.js
